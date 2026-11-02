@@ -1,0 +1,65 @@
+{
+  "cookies": [
+    {
+      "name": "Authorization",
+      "value": "eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJlYWVmMWExMi05OGIzLTQyZDgtOWU4NS0wNjFmNzEzYmEwOGQiLCJzdWIiOiLYs9it2LEg2YbbjNqp2KjYrtiqIiwiYXV0aCI6IlJPTEVfQ1VTVE9NRVIiLCJ1c2VyIjoiOGFhYWQ5MjU5YWZlNjhmOTAxOWIyNjI3MTdhMDAwM2IiLCJtb2JpbGUiOiIwOTE5MzE1MDk4OSIsImtleSI6ImtpcGl0LWNvbnN1bWVyLWtleSIsIm5pZCI6IlIxMTgyc1Nud2QxWFpjbDZLVnFQS0E9PSIsImhhc2hlZF9uYXRpb25hbF9pZCI6IjAwMTA4NzE3ODAiLCJ0eXBlIjoiQ1VTVE9NRVIiLCJjbGllbnQiOjIsIm9yZ2FuaXphdGlvbnMiOiIxIiwic2lkIjoiN2FlODNhMjAtNzU0Ni00ZDc2LWIyZmMtOWQxZTM3N2EyMDdiIiwiZXhwIjoxNzkyODM0MTE2fQ.DhLIiPlKksu7fsgI82pS-nh95GyVrTD6iR6U1DrX3u9ywX4iC3HTEDrFQssenywJM3lUSLUGvpyVNy-bKgKFGA",
+      "domain": "bit.omidpayment.ir",
+      "path": "/",
+      "expires": 1792834117.348478,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "RefreshToken",
+      "value": "31c8c0c5-badd-4fb9-9cee-fd4805cbaa3c",
+      "domain": "bit.omidpayment.ir",
+      "path": "/",
+      "expires": 1793697517.348814,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "TS01e3d0c1",
+      "value": "015e399f80fee5ff4857998bb6b17ea766e346a44e5789f7c429fc3bf903ce545f1373a37c3a6515d24f1922c0199f0fe06282852c",
+      "domain": ".cn.omidpayment.ir",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TS014388ec",
+      "value": "015e399f80b6bc0659e12fedd9b787ad10946f3dcfb113140183ec87de5ec90e721feb524121557cfbc00f4103a6a0b7575b5163e8",
+      "domain": ".bit.omidpayment.ir",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "TS01f90b89",
+      "value": "015e399f801899dbb98bd6182c358efb2677491743c322dc6c98d62da734b25b6fc24105fd45517786d3e9dfb13e3478dd3fb390241c61ab6ca9e3ff348f9a7c74e2bcddfc88d4f7da3212cbe9adb3e9a9fae985c395fed1b73bedb2ec8b5d44cd8d30cd99",
+      "domain": ".bit.omidpayment.ir",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://bit.omidpayment.ir",
+      "localStorage": [
+        {
+          "name": "transactionId",
+          "value": "cb2950b8-31e7-48d7-bfd7-a1d33e7af2c6"
+        }
+      ]
+    }
+  ]
+}
